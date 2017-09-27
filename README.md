@@ -2,6 +2,8 @@
 
 This app was made using React through the creat-react-app cli. A little clock seemed like a good idea for a little App to demonstrate React. The official React docs have an example making Clock, perhaps it wasn't an original idea after all. Anyway credit to the React docs, big thank you to all their hard work.
 
+[Demo](http://reactclock.surge.sh/)
+
 ## Motivation
 
 I make these 
